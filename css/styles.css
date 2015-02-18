@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+}
+form {
+  border : 2px solid #000;
+  padding : 5px;
+  height: 157px;
+  width: 375px;
+  text-align: center;
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#new-balance {
+  margin-top: 10px;
+  text-align: center;
+
+
+}
